@@ -25,7 +25,10 @@ function App() {
             </div>
           </div>
           <div className="absolute flex flex-col gap-2 p-4 justify-center side w-full h-full bg-gradient-to-tr from-[#fa709a] to-[#fee140]   rotate-y-180 ">
-            <a href="" role="button">
+            <a
+              href="https://www.linkedin.com/in/beral-assonfack-5a462727b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+              role="button"
+            >
               <button className="w-full border rounded-md py-3 hover:bg-gradient-to-r from-[#f43b47] to-[#453a94] hover:font-bold ">
                 LinkedIn
               </button>
